@@ -1,0 +1,79 @@
+
+
+## treatement of 3 lineages from file OG0007563.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+
+mean GC outgro: all positions=0.398 position1=0.386 position2=0.364 position3=0.443 
+mean GC anostraca: all positions=0.386 position1=0.414 position2=0.357 position3=0.386 
+mean GC cladocera: all positions=0.438 position1=0.510 position2=0.329 position3=0.476 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 144.2
+mean Ka anostraca: 0.882405
+mean Ka cladocera: 0.857825
+dKa: 0.0245794	standard deviation (sd): 0.11296	ratio dKa/sd: 0.217594
+exact probability (P): 0.827746
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+lapu	0.2
+lart	0.2
+lcou	0.2
+lubb	0.2
+tusa	0.2
+
+mean GC outgro: all positions=0.398 position1=0.386 position2=0.364 position3=0.443 
+mean GC anostraca: all positions=0.386 position1=0.414 position2=0.357 position3=0.386 
+mean GC notostraca: all positions=0.493 position1=0.514 position2=0.403 position3=0.563 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 139.6
+mean Ka anostraca: 0.882405
+mean Ka notostraca: 0.877432
+dKa: 0.00497243	standard deviation (sd): 0.128612	ratio dKa/sd: 0.0386622
+exact probability (P): 0.96916
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+> notostraca:
+lapu	0.2
+lart	0.2
+lcou	0.2
+lubb	0.2
+tusa	0.2
+
+mean GC outgro: all positions=0.398 position1=0.386 position2=0.364 position3=0.443 
+mean GC cladocera: all positions=0.438 position1=0.510 position2=0.329 position3=0.476 
+mean GC notostraca: all positions=0.493 position1=0.514 position2=0.403 position3=0.563 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 138.8
+mean Ka cladocera: 0.857825
+mean Ka notostraca: 0.877432
+dKa: -0.019607	standard deviation (sd): 0.108039	ratio dKa/sd: -0.181481
+exact probability (P): 0.855991
+

@@ -1,0 +1,70 @@
+
+
+## treatement of 3 lineages from file OG0009557.phy ##
+
+equally weighted sequences:
+> outgro:
+tcas	1
+> anostraca:
+afra	1
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+
+mean GC outgro: all positions=0.565 position1=0.451 position2=0.561 position3=0.683 
+mean GC anostraca: all positions=0.435 position1=0.402 position2=0.549 position3=0.354 
+mean GC cladocera: all positions=0.487 position1=0.445 position2=0.559 position3=0.457 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 316.7
+mean Ka anostraca: 0.505689
+mean Ka cladocera: 0.48717
+dKa: 0.018519	standard deviation (sd): 0.0546873	ratio dKa/sd: 0.338634
+exact probability (P): 0.734888
+
+equally weighted sequences:
+> outgro:
+tcas	1
+> anostraca:
+afra	1
+> notostraca:
+tita	0.5
+tusa	0.5
+
+mean GC outgro: all positions=0.565 position1=0.451 position2=0.561 position3=0.683 
+mean GC anostraca: all positions=0.435 position1=0.402 position2=0.549 position3=0.354 
+mean GC notostraca: all positions=0.526 position1=0.457 position2=0.591 position3=0.530 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 324.9
+mean Ka anostraca: 0.505689
+mean Ka notostraca: 0.424477
+dKa: 0.0812121	standard deviation (sd): 0.0566026	ratio dKa/sd: 1.43478
+exact probability (P): 0.151359
+
+equally weighted sequences:
+> outgro:
+tcas	1
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+> notostraca:
+tita	0.5
+tusa	0.5
+
+mean GC outgro: all positions=0.565 position1=0.451 position2=0.561 position3=0.683 
+mean GC cladocera: all positions=0.487 position1=0.445 position2=0.559 position3=0.457 
+mean GC notostraca: all positions=0.526 position1=0.457 position2=0.591 position3=0.530 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 326.4
+mean Ka cladocera: 0.48717
+mean Ka notostraca: 0.424477
+dKa: 0.0626932	standard deviation (sd): 0.0400953	ratio dKa/sd: 1.5636
+exact probability (P): 0.117918
+

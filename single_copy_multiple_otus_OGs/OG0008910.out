@@ -1,0 +1,73 @@
+
+
+## treatement of 3 lineages from file OG0008910.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dpul	1
+
+mean GC outgro: all positions=0.426 position1=0.384 position2=0.477 position3=0.419 
+mean GC anostraca: all positions=0.380 position1=0.419 position2=0.419 position3=0.302 
+mean GC cladocera: all positions=0.426 position1=0.419 position2=0.512 position3=0.349 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 85.5
+mean Ka anostraca: 0.591091
+mean Ka cladocera: 0.536259
+dKa: 0.0548319	standard deviation (sd): 0.113427	ratio dKa/sd: 0.483411
+exact probability (P): 0.628807
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+lapu	0.25
+lart	0.25
+lcou	0.25
+lubb	0.25
+
+mean GC outgro: all positions=0.426 position1=0.384 position2=0.477 position3=0.419 
+mean GC anostraca: all positions=0.380 position1=0.419 position2=0.419 position3=0.302 
+mean GC notostraca: all positions=0.384 position1=0.331 position2=0.465 position3=0.355 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 84.5
+mean Ka anostraca: 0.591091
+mean Ka notostraca: 0.511525
+dKa: 0.0795657	standard deviation (sd): 0.101349	ratio dKa/sd: 0.78507
+exact probability (P): 0.432418
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dpul	1
+> notostraca:
+lapu	0.25
+lart	0.25
+lcou	0.25
+lubb	0.25
+
+mean GC outgro: all positions=0.426 position1=0.384 position2=0.477 position3=0.419 
+mean GC cladocera: all positions=0.426 position1=0.419 position2=0.512 position3=0.349 
+mean GC notostraca: all positions=0.384 position1=0.331 position2=0.465 position3=0.355 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 84.0
+mean Ka cladocera: 0.536259
+mean Ka notostraca: 0.511525
+dKa: 0.0247338	standard deviation (sd): 0.0920956	ratio dKa/sd: 0.268567
+exact probability (P): 0.788265
+

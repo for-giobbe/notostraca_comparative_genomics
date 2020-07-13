@@ -1,0 +1,71 @@
+
+
+## treatement of 3 lineages from file OG0009616.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dpul	0.5
+etex	0.5
+
+mean GC outgro: all positions=0.440 position1=0.479 position2=0.425 position3=0.418 
+mean GC anostraca: all positions=0.436 position1=0.450 position2=0.479 position3=0.379 
+mean GC cladocera: all positions=0.508 position1=0.504 position2=0.486 position3=0.536 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 261.2
+mean Ka anostraca: 0.589248
+mean Ka cladocera: 0.509696
+dKa: 0.0795525	standard deviation (sd): 0.0468793	ratio dKa/sd: 1.69697
+exact probability (P): 0.0897121
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+tita	0.5
+tusa	0.5
+
+mean GC outgro: all positions=0.440 position1=0.479 position2=0.425 position3=0.418 
+mean GC anostraca: all positions=0.436 position1=0.450 position2=0.479 position3=0.379 
+mean GC notostraca: all positions=0.450 position1=0.493 position2=0.486 position3=0.371 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 263.8
+mean Ka anostraca: 0.589248
+mean Ka notostraca: 0.557926
+dKa: 0.0313225	standard deviation (sd): 0.0541419	ratio dKa/sd: 0.578525
+exact probability (P): 0.562914
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dpul	0.5
+etex	0.5
+> notostraca:
+tita	0.5
+tusa	0.5
+
+mean GC outgro: all positions=0.440 position1=0.479 position2=0.425 position3=0.418 
+mean GC cladocera: all positions=0.508 position1=0.504 position2=0.486 position3=0.536 
+mean GC notostraca: all positions=0.450 position1=0.493 position2=0.486 position3=0.371 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 263.9
+mean Ka cladocera: 0.509696
+mean Ka notostraca: 0.557926
+dKa: -0.04823	standard deviation (sd): 0.0441573	ratio dKa/sd: -1.09223
+exact probability (P): 0.274738
+

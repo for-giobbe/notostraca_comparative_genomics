@@ -1,0 +1,81 @@
+
+
+## treatement of 3 lineages from file OG0006885.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+
+mean GC outgro: all positions=0.472 position1=0.492 position2=0.398 position3=0.524 
+mean GC anostraca: all positions=0.394 position1=0.494 position2=0.345 position3=0.342 
+mean GC cladocera: all positions=0.430 position1=0.483 position2=0.373 position3=0.434 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 592.7
+mean Ka anostraca: 0.417813
+mean Ka cladocera: 0.353893
+dKa: 0.0639195	standard deviation (sd): 0.0236972	ratio dKa/sd: 2.69735
+exact probability (P): 0.00699625
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+lapu	0.166667
+lart	0.166667
+lcou	0.166667
+tcan	0.166667
+tita	0.166667
+tusa	0.166667
+
+mean GC outgro: all positions=0.472 position1=0.492 position2=0.398 position3=0.524 
+mean GC anostraca: all positions=0.394 position1=0.494 position2=0.345 position3=0.342 
+mean GC notostraca: all positions=0.487 position1=0.516 position2=0.411 position3=0.533 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 597.8
+mean Ka anostraca: 0.417813
+mean Ka notostraca: 0.369721
+dKa: 0.048092	standard deviation (sd): 0.0246671	ratio dKa/sd: 1.94964
+exact probability (P): 0.0512251
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+> notostraca:
+lapu	0.166667
+lart	0.166667
+lcou	0.166667
+tcan	0.166667
+tita	0.166667
+tusa	0.166667
+
+mean GC outgro: all positions=0.472 position1=0.492 position2=0.398 position3=0.524 
+mean GC cladocera: all positions=0.430 position1=0.483 position2=0.373 position3=0.434 
+mean GC notostraca: all positions=0.487 position1=0.516 position2=0.411 position3=0.533 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 599.3
+mean Ka cladocera: 0.353893
+mean Ka notostraca: 0.369721
+dKa: -0.0158275	standard deviation (sd): 0.0177498	ratio dKa/sd: -0.891705
+exact probability (P): 0.372557
+

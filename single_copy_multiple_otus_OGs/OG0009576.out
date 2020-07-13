@@ -1,0 +1,71 @@
+
+
+## treatement of 3 lineages from file OG0009576.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dmag	0.5
+dpul	0.5
+
+mean GC outgro: all positions=0.485 position1=0.600 position2=0.392 position3=0.462 
+mean GC anostraca: all positions=0.415 position1=0.554 position2=0.415 position3=0.277 
+mean GC cladocera: all positions=0.490 position1=0.608 position2=0.431 position3=0.431 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 121.3
+mean Ka anostraca: 0.0584611
+mean Ka cladocera: 0.0594448
+dKa: -0.000983755	standard deviation (sd): 0.0207602	ratio dKa/sd: -0.0473865
+exact probability (P): 0.962205
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+tcan	0.5
+tusa	0.5
+
+mean GC outgro: all positions=0.485 position1=0.600 position2=0.392 position3=0.462 
+mean GC anostraca: all positions=0.415 position1=0.554 position2=0.415 position3=0.277 
+mean GC notostraca: all positions=0.482 position1=0.646 position2=0.385 position3=0.415 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 123.1
+mean Ka anostraca: 0.0584611
+mean Ka notostraca: 0.0203254
+dKa: 0.0381357	standard deviation (sd): 0.0187431	ratio dKa/sd: 2.03465
+exact probability (P): 0.0418944
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dmag	0.5
+dpul	0.5
+> notostraca:
+tcan	0.5
+tusa	0.5
+
+mean GC outgro: all positions=0.485 position1=0.600 position2=0.392 position3=0.462 
+mean GC cladocera: all positions=0.490 position1=0.608 position2=0.431 position3=0.431 
+mean GC notostraca: all positions=0.482 position1=0.646 position2=0.385 position3=0.415 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 122.2
+mean Ka cladocera: 0.0594448
+mean Ka notostraca: 0.0203254
+dKa: 0.0391195	standard deviation (sd): 0.0212365	ratio dKa/sd: 1.84209
+exact probability (P): 0.0654704
+

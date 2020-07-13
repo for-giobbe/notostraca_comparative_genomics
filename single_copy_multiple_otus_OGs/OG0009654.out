@@ -1,0 +1,71 @@
+
+
+## treatement of 3 lineages from file OG0009654.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+
+mean GC outgro: all positions=0.431 position1=0.481 position2=0.325 position3=0.486 
+mean GC anostraca: all positions=0.374 position1=0.434 position2=0.311 position3=0.377 
+mean GC cladocera: all positions=0.409 position1=0.500 position2=0.311 position3=0.415 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 209.0
+mean Ka anostraca: 0.801026
+mean Ka cladocera: 0.526205
+dKa: 0.274821	standard deviation (sd): 0.0839033	ratio dKa/sd: 3.27544
+exact probability (P): 0.00105857
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+tusa	1
+
+mean GC outgro: all positions=0.431 position1=0.481 position2=0.325 position3=0.486 
+mean GC anostraca: all positions=0.374 position1=0.434 position2=0.311 position3=0.377 
+mean GC notostraca: all positions=0.500 position1=0.528 position2=0.387 position3=0.585 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 204.3
+mean Ka anostraca: 0.801026
+mean Ka notostraca: 0.584066
+dKa: 0.21696	standard deviation (sd): 0.0843037	ratio dKa/sd: 2.57355
+exact probability (P): 0.0100725
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+> notostraca:
+tusa	1
+
+mean GC outgro: all positions=0.431 position1=0.481 position2=0.325 position3=0.486 
+mean GC cladocera: all positions=0.409 position1=0.500 position2=0.311 position3=0.415 
+mean GC notostraca: all positions=0.500 position1=0.528 position2=0.387 position3=0.585 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 204.0
+mean Ka cladocera: 0.526205
+mean Ka notostraca: 0.584066
+dKa: -0.0578606	standard deviation (sd): 0.0543144	ratio dKa/sd: -1.06529
+exact probability (P): 0.286751
+

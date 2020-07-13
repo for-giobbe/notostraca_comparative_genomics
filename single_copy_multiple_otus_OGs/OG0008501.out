@@ -1,0 +1,75 @@
+
+
+## treatement of 3 lineages from file OG0008501.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dmag	1
+
+mean GC outgro: all positions=0.451 position1=0.524 position2=0.390 position3=0.438 
+mean GC anostraca: all positions=0.381 position1=0.419 position2=0.371 position3=0.352 
+mean GC cladocera: all positions=0.362 position1=0.410 position2=0.324 position3=0.352 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 215.5
+mean Ka anostraca: 0.836548
+mean Ka cladocera: 0.68304
+dKa: 0.153508	standard deviation (sd): 0.0990256	ratio dKa/sd: 1.55019
+exact probability (P): 0.121105
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+lapu	0.2
+lart	0.2
+lcou	0.2
+lubb	0.2
+tlon	0.2
+
+mean GC outgro: all positions=0.451 position1=0.524 position2=0.390 position3=0.438 
+mean GC anostraca: all positions=0.381 position1=0.419 position2=0.371 position3=0.352 
+mean GC notostraca: all positions=0.439 position1=0.539 position2=0.385 position3=0.394 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 213.7
+mean Ka anostraca: 0.836548
+mean Ka notostraca: 0.621152
+dKa: 0.215396	standard deviation (sd): 0.0894962	ratio dKa/sd: 2.40676
+exact probability (P): 0.0161025
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dmag	1
+> notostraca:
+lapu	0.2
+lart	0.2
+lcou	0.2
+lubb	0.2
+tlon	0.2
+
+mean GC outgro: all positions=0.451 position1=0.524 position2=0.390 position3=0.438 
+mean GC cladocera: all positions=0.362 position1=0.410 position2=0.324 position3=0.352 
+mean GC notostraca: all positions=0.439 position1=0.539 position2=0.385 position3=0.394 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 213.4
+mean Ka cladocera: 0.68304
+mean Ka notostraca: 0.621152
+dKa: 0.061888	standard deviation (sd): 0.0714818	ratio dKa/sd: 0.865787
+exact probability (P): 0.386613
+

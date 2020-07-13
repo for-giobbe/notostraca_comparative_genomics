@@ -1,0 +1,73 @@
+
+
+## treatement of 3 lineages from file OG0005243.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+
+mean GC outgro: all positions=0.292 position1=0.000 position2=0.125 position3=0.750 
+mean GC anostraca: all positions=0.167 position1=0.500 position2=0.000 position3=0.000 
+mean GC cladocera: all positions=0.306 position1=0.333 position2=0.083 position3=0.500 
+
+** impossible to compute Ks. saturation? **
+
+** impossible to compute Ka. saturation? **
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+lapu	0.125
+lart	0.125
+lcou	0.125
+lubb	0.125
+tcan	0.125
+tita	0.125
+tlon	0.125
+tusa	0.125
+
+mean GC outgro: all positions=0.292 position1=0.000 position2=0.125 position3=0.750 
+mean GC anostraca: all positions=0.167 position1=0.500 position2=0.000 position3=0.000 
+mean GC notostraca: all positions=0.438 position1=0.594 position2=0.250 position3=0.469 
+
+** impossible to compute Ks. saturation? **
+
+** impossible to compute Ka. saturation? **
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+> notostraca:
+lapu	0.125
+lart	0.125
+lcou	0.125
+lubb	0.125
+tcan	0.125
+tita	0.125
+tlon	0.125
+tusa	0.125
+
+mean GC outgro: all positions=0.292 position1=0.000 position2=0.125 position3=0.750 
+mean GC cladocera: all positions=0.306 position1=0.333 position2=0.083 position3=0.500 
+mean GC notostraca: all positions=0.438 position1=0.594 position2=0.250 position3=0.469 
+
+** impossible to compute Ks. saturation? **
+
+** impossible to compute Ka. saturation? **
+

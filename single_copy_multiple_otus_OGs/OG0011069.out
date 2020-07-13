@@ -1,0 +1,67 @@
+
+
+## treatement of 3 lineages from file OG0011069.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dmag	1
+
+mean GC outgro: all positions=0.408 position1=0.523 position2=0.299 position3=0.402 
+mean GC anostraca: all positions=0.375 position1=0.483 position2=0.322 position3=0.322 
+mean GC cladocera: all positions=0.364 position1=0.494 position2=0.264 position3=0.333 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 176.2
+mean Ka anostraca: 0.448505
+mean Ka cladocera: 0.489757
+dKa: -0.0412521	standard deviation (sd): 0.0601161	ratio dKa/sd: -0.686208
+exact probability (P): 0.492587
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+lubb	1
+
+mean GC outgro: all positions=0.408 position1=0.523 position2=0.299 position3=0.402 
+mean GC anostraca: all positions=0.375 position1=0.483 position2=0.322 position3=0.322 
+mean GC notostraca: all positions=0.425 position1=0.598 position2=0.322 position3=0.356 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 175.1
+mean Ka anostraca: 0.448505
+mean Ka notostraca: 0.548345
+dKa: -0.0998402	standard deviation (sd): 0.0729338	ratio dKa/sd: -1.36891
+exact probability (P): 0.171034
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dmag	1
+> notostraca:
+lubb	1
+
+mean GC outgro: all positions=0.408 position1=0.523 position2=0.299 position3=0.402 
+mean GC cladocera: all positions=0.364 position1=0.494 position2=0.264 position3=0.333 
+mean GC notostraca: all positions=0.425 position1=0.598 position2=0.322 position3=0.356 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 177.1
+mean Ka cladocera: 0.489757
+mean Ka notostraca: 0.548345
+dKa: -0.058588	standard deviation (sd): 0.0701676	ratio dKa/sd: -0.834973
+exact probability (P): 0.403738
+

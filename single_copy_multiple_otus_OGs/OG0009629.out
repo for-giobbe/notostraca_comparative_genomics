@@ -1,0 +1,71 @@
+
+
+## treatement of 3 lineages from file OG0009629.phy ##
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+
+mean GC outgro: all positions=0.414 position1=0.466 position2=0.371 position3=0.405 
+mean GC anostraca: all positions=0.385 position1=0.503 position2=0.320 position3=0.333 
+mean GC cladocera: all positions=0.420 position1=0.490 position2=0.363 position3=0.408 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 292.5
+mean Ka anostraca: 0.580923
+mean Ka cladocera: 0.567021
+dKa: 0.0139022	standard deviation (sd): 0.0514535	ratio dKa/sd: 0.270189
+exact probability (P): 0.787017
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> anostraca:
+afra	1
+> notostraca:
+tlon	1
+
+mean GC outgro: all positions=0.414 position1=0.466 position2=0.371 position3=0.405 
+mean GC anostraca: all positions=0.385 position1=0.503 position2=0.320 position3=0.333 
+mean GC notostraca: all positions=0.444 position1=0.510 position2=0.367 position3=0.456 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 289.1
+mean Ka anostraca: 0.580923
+mean Ka notostraca: 0.455923
+dKa: 0.125	standard deviation (sd): 0.0525232	ratio dKa/sd: 2.37991
+exact probability (P): 0.0173246
+
+equally weighted sequences:
+> outgro:
+ocin	0.5
+tcas	0.5
+> cladocera:
+dmag	0.333333
+dpul	0.333333
+etex	0.333333
+> notostraca:
+tlon	1
+
+mean GC outgro: all positions=0.414 position1=0.466 position2=0.371 position3=0.405 
+mean GC cladocera: all positions=0.420 position1=0.490 position2=0.363 position3=0.408 
+mean GC notostraca: all positions=0.444 position1=0.510 position2=0.367 position3=0.456 
+
+** impossible to compute Ks. saturation? **
+
+mean number of non synonymous sites compared: 290.8
+mean Ka cladocera: 0.567021
+mean Ka notostraca: 0.455923
+dKa: 0.111098	standard deviation (sd): 0.0433256	ratio dKa/sd: 2.56426
+exact probability (P): 0.0103468
+
